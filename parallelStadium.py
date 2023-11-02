@@ -78,3 +78,5 @@ else:
 
     print(f'Revenue: {revenue}')
     print(f'Time: {round(finish - start, 3)}')
+
+comm.Free()
